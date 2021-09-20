@@ -1,0 +1,1 @@
+scoreboard objectives add d_op_i minecraft.custom:minecraft.damage_taken

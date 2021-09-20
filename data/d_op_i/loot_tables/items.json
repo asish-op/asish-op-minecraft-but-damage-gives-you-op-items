@@ -1,0 +1,309 @@
+{"pools":[{"rolls":1,"entries":[{
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "minecraft:netherite_shovel",
+                    "functions": [{
+                            "function": "minecraft:set_nbt",
+                            "tag": "{Enchantments:[{id:\"minecraft:sharpness\",lvl:69s},{id:\"minecraft:efficiency\",lvl:69s},{id:\"minecraft:unbreaking\",lvl:69s},{id:\"minecraft:fortune\",lvl:69s}]}"
+                        }
+                    ]    
+        }, {
+                    "type": "minecraft:item",
+                    "weight": 3,
+                    "name": "minecraft:netherite_pickaxe",
+                    "functions": [{
+                            "function": "minecraft:set_nbt",
+                            "tag": "{Enchantments:[{id:\"minecraft:sharpness\",lvl:69s},{id:\"minecraft:efficiency\",lvl:69s},{id:\"minecraft:unbreaking\",lvl:69s},{id:\"minecraft:fortune\",lvl:10s}]}"
+                        }
+                    ]
+     }, {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "minecraft:netherite_axe",
+                    "functions": [{
+                            "function": "minecraft:set_nbt",
+                            "tag": "{Enchantments:[{id:\"minecraft:sharpness\",lvl:69s},{id:\"minecraft:efficiency\",lvl:69s},{id:\"minecraft:unbreaking\",lvl:69s},{id:\"minecraft:fortune\",lvl:69s}]}"
+                        }
+                    ]
+        }, {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "minecraft:netherite_hoe",
+                    "functions": [{
+                            "function": "minecraft:set_nbt",
+                            "tag": "{Enchantments:[{id:\"minecraft:sharpness\",lvl:69s},{id:\"minecraft:efficiency\",lvl:69s},{id:\"minecraft:unbreaking\",lvl:69s},{id:\"minecraft:fortune\",lvl:69s}]}"
+                        }
+                    ]
+             }, {
+                    "type": "minecraft:item",
+                    "name": "minecraft:netherite_sword",
+                    "functions": [{
+                            "function": "minecraft:set_nbt",
+                            "tag": "{Enchantments:[{id:\"minecraft:sharpness\",lvl:69s},{id:\"minecraft:knockback\",lvl:69s},{id:\"minecraft:fire_aspect\",lvl:69s},{id:\"minecraft:looting\",lvl:69s},{id:\"minecraft:sweeping\",lvl:69s},{id:\"minecraft:unbreaking\",lvl:69s}]}"
+                        }
+                    ]
+                }, {
+                    "type": "minecraft:item",
+                    "name": "minecraft:netherite_helmet",
+                    "functions": [{
+                            "function": "minecraft:set_nbt",
+                            "tag": "{Enchantments:[{id:\"minecraft:protection\",lvl:69s},{id:\"minecraft:respiration\",lvl:69s},{id:\"minecraft:aqua_affinity\",lvl:69s},{id:\"minecraft:thorns\",lvl:69s},{id:\"minecraft:unbreaking\",lvl:69s}]}"
+                        }
+                    ]
+                }, {
+                    "type": "minecraft:item",
+                    "name": "minecraft:netherite_chestplate",
+                    "functions": [{
+                            "function": "minecraft:set_nbt",
+                            "tag": "{Enchantments:[{id:\"minecraft:protection\",lvl:69s},{id:\"minecraft:thorns\",lvl:69s},{id:\"minecraft:unbreaking\",lvl:69s}]}"
+                        }
+                    ]
+                }, {
+                    "type": "minecraft:item",
+                    "name": "minecraft:netherite_leggings",
+                    "functions": [{
+                            "function": "minecraft:set_nbt",
+                            "tag": "{Enchantments:[{id:\"minecraft:protection\",lvl:69s},{id:\"minecraft:thorns\",lvl:69s},{id:\"minecraft:unbreaking\",lvl:69s}]}"
+                        }
+                    ]
+                }, {
+                    "type": "minecraft:item",
+                    "name": "minecraft:netherite_boots",
+                    "functions": [{
+                            "function": "minecraft:set_nbt",
+                            "tag": "{Enchantments:[{id:\"minecraft:protection\",lvl:69s},{id:\"minecraft:feather_falling\",lvl:69s},{id:\"minecraft:thorns\",lvl:69s},{id:\"minecraft:depth_strider\",lvl:69s},{id:\"minecraft:unbreaking\",lvl:69s},{id:\"minecraft:soul_speed\",lvl:69s}]}"
+                        }
+                    ]
+                }, {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "minecraft:totem_of_undying"
+                }, {
+                    "type": "minecraft:item",
+                    "weight": 3,
+                    "name": "minecraft:bow",
+                    "functions": [{
+                            "function": "minecraft:set_nbt",
+                            "tag": "{Enchantments:[{id:\"minecraft:unbreaking\",lvl:69s},{id:\"minecraft:power\",lvl:69s},{id:\"minecraft:punch\",lvl:69s},{id:\"minecraft:flame\",lvl:69s},{id:\"minecraft:infinity\",lvl:1s}]}"
+                        }
+                    ]
+                }, {
+                    "type": "minecraft:item",
+                    "weight": 3,
+                    "name": "minecraft:crossbow",
+                    "functions": [{
+                            "function": "minecraft:set_nbt",
+                            "tag": "{Enchantments:[{id:\"minecraft:unbreaking\",lvl:69s},{id:\"minecraft:multishot\",lvl:69s},{id:\"minecraft:piercing\",lvl:69s},{id:\"minecraft:quick_charge\",lvl:5s}]}"
+                        }
+                    ]
+                }, {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "minecraft:trident",
+                    "functions": [{
+                            "function": "minecraft:set_nbt",
+                            "tag": "{Enchantments:[{id:\"minecraft:unbreaking\",lvl:69s},{id:\"minecraft:loyalty\",lvl:69s},{id:\"minecraft:impaling\",lvl:69s},{id:\"minecraft:channeling\",lvl:69s}]}"
+                        }
+                    ] 
+             }, {
+                    "type": "minecraft:item",
+                    "name": "minecraft:elytra",
+                    "functions": [{
+                            "function": "minecraft:set_nbt",
+                            "tag": "{Enchantments:[{id:\"minecraft:unbreaking\",lvl:69s},{id:\"minecraft:protection\",lvl:69s}]}"
+                        }
+                    ]
+             }, {
+                    "type": "minecraft:item",
+                    "weight": 3,
+                    "name": "minecraft:firework_rocket",
+                    "functions": [{
+                            "function": "minecraft:set_count",
+                            "count": 64
+                        }
+                    ]
+                }, {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "minecraft:ender_eye",
+                    "functions": [{
+                            "function": "minecraft:set_count",
+                            "count": 16
+                        }
+                    ]
+                }, {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "minecraft:ender_pearl",
+                    "functions": [{
+                            "function": "minecraft:set_count",
+                            "count": 16
+                        }
+                    ]    
+             }, {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "minecraft:enchanted_golden_apple",
+                    "functions": [{
+                            "function": "minecraft:set_count",
+                            "count": 128
+                        }
+                    ]
+             }, {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "minecraft:golden_apple",
+                    "functions": [{
+                            "function": "minecraft:set_count",
+                            "count": 128
+                        }
+                    ]
+        },
+	{
+          "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "minecraft:potion",
+                    "functions": [{
+                            "function": "minecraft:set_nbt",
+                            "tag": "{display:{Name:'{\"text\":\"Potion of Swiftness\",\"italic\":false}'},CustomPotionEffects:[{Id:1b,Amplifier:8b,Duration:6000}],CustomPotionColor:10333695}"
+                        }
+                    ]
+                }, {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "minecraft:potion",
+                    "functions": [{
+                            "function": "minecraft:set_nbt",
+                            "tag": "{display:{Name:'{\"text\":\"Potion of Fire Resistance\",\"italic\":false}'},CustomPotionEffects:[{Id:12b,Amplifier:8b,Duration:6000}],CustomPotionColor:16361137}"
+                        }
+                    ]
+                }, {
+                    "type": "minecraft:item",
+                    "weight": 3,
+                    "name": "minecraft:potion",
+                    "functions": [{
+                            "function": "minecraft:set_nbt",
+                            "tag": "{display:{Name:'{\"text\":\"Potion of Strength\",\"italic\":false}'},CustomPotionEffects:[{Id:5b,Amplifier:8b,Duration:6000}],CustomPotionColor:12466332}"
+                        }
+                    ]
+                }, {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "minecraft:potion",
+                    "functions": [{
+                            "function": "minecraft:set_nbt",
+                            "tag": "{display:{Name:'{\"text\":\"Potion of Regeneration\",\"italic\":false}'},CustomPotionEffects:[{Id:10b,Amplifier:8b,Duration:6000}],CustomPotionColor:15953151}"
+                        }
+                    ]
+                }, {
+                    "type": "minecraft:item",
+                    "weight": 3,
+                    "name": "minecraft:potion",
+                    "functions": [{
+                            "function": "minecraft:set_nbt",
+                            "tag": "{display:{Name:'{\"text\":\"Potion of Speed Mining\",\"italic\":false}'},CustomPotionEffects:[{Id:3b,Amplifier:8b,Duration:6000}],CustomPotionColor:16768307}"
+                        }
+                    ]
+        },
+  	{
+          "type": "minecraft:item",
+          "name": "minecraft:experience_bottle",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 64
+            }
+          ]
+           
+        },{
+                    "type": "minecraft:item",
+                    "weight": 3,
+                    "name": "minecraft:arrow",
+                    "functions": [{
+                            "function": "minecraft:set_count",
+                            "count": 64
+                        }
+                    ]
+        },{
+                    "type": "minecraft:item",
+                    "name": "minecraft:water_bucket",
+                    "functions": [
+                      {
+                        "function": "minecraft:set_count",
+                         "count": 1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:gold_ingot",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 32
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:netherite_scrap",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 32
+            }
+          ]
+         }, {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "minecraft:netherite_ingot",
+                    "functions": [{
+                            "function": "minecraft:set_count",
+                            "count": 64
+                        }
+                    ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:emerald_block",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 32
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:obsidian",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 128
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 64
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_block",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 32
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

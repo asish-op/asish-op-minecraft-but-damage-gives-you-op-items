@@ -1,0 +1,1 @@
+execute as @a[scores={d_op_i=1..}] run function d_op_i:loot
